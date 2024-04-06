@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Week2x | Academic</title>
+    <link>http://localhost:1313/category/week2x/</link>
+      <atom:link href="http://localhost:1313/category/week2x/index.xml" rel="self" type="application/rss+xml" />
+    <description>Week2x</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Week2x</title>
+      <link>http://localhost:1313/category/week2x/</link>
+    </image>
+    
+    <item>
+      <title>Пост по прошедшей неделе неделе, 1-6 апреля</title>
+      <link>http://localhost:1313/post/post3/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post3/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;как-прошла-моя-неделя&#34;&gt;Как прошла моя неделя?&lt;/h1&gt;
+&lt;h2 id=&#34;понедельник&#34;&gt;Понедельник&lt;/h2&gt;
+&lt;p&gt;Неделя началась совсем неплохо. Я поехала на выходные к сестре и в понедельник первую дистанционную пару отсидела у сестры. После забрав вещи приехала в общагу и огромными сумками и оставив вещи поехала в универ на пару по русскому языку. Нас обрадовали, что в мае мы будем выступпать на конферении и мы весь урок обсуждали темыы докладов. Вернувшись в общагу я занималась уроками, в особенности математикой.&lt;/p&gt;
+&lt;h2 id=&#34;вторник&#34;&gt;Вторник&lt;/h2&gt;
+&lt;p&gt;С утра я начала гоовиться к контрольной по мат логике, после я сходила на физру, мы очень классно поиграли в бадбинтон. Вернувшись после физры оставшийся день я готовилась к мат логике.&lt;/p&gt;
+&lt;h2 id=&#34;среда&#34;&gt;Среда&lt;/h2&gt;
+&lt;p&gt;С 9:00 у нас была пара по мал анализу, затем пара по мат логике, где мы писали контрольную. Кстати контрольную я написала на максимум, так что мжете за меня порадоваться:). Вернувшись в общагу оставшийся день я провела за технологией программирования, изучая темы классы, векторы и матрицы.&lt;/p&gt;
+&lt;h2 id=&#34;четверг&#34;&gt;Четверг&lt;/h2&gt;
+&lt;p&gt;В этот день я опять провела весь день в универе, защитила практикум на максимум и вернувшись в общагу у меня сил хватило только на то чтобы покушать, пото я пошла спать, ну или как говорится в простонародье залипать в телефон.&lt;/p&gt;
+&lt;h2 id=&#34;пятница&#34;&gt;Пятница&lt;/h2&gt;
+&lt;p&gt;Вчера я сходила на две пары по истории и немецкому, вернувшись домой я приняла душ. Затем начала делать лабораторную по архитектурев итоге я закнчила лабораторную только под утро. Так что поспала я 4 часа:(&lt;/p&gt;
+&lt;h2 id=&#34;суббота&#34;&gt;Суббота&lt;/h2&gt;
+&lt;p&gt;Сегодня суббота, и с утра я доделываю лабораторные работы, чтобы успеть к дедлайну. После я собираюсь поехать к сестре и провести там свои вызодные. Я очень рада, что каждая неделя проходит интересно и продуктивно!
+Как не сранно вышеуказанное сообщение я не изменила, так как моя суббота всегда проходит одинаково, то есть с любимой лабораторной и индивидуальным проектом. Всем спасибо за внимание! Всем пока!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
