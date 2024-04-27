@@ -42,7 +42,19 @@
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/category/%D0%BE%D1%82%D1%87%D0%B5%D1%82/</loc>
+    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/post-6/</loc>
+    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/post/post3/</loc>
+    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/post5/</loc>
     <lastmod>2023-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
